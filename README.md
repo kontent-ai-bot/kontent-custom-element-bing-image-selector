@@ -44,3 +44,7 @@ Netlify has made this easy. If you click the deploy button below, it will guide 
 ## What is Saved?
 
 A string containing the image's URL.
+
+## Contributors
+
+Originally contributed by: [@maartenvdh](https://github.com/maartenvdh)
