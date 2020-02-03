@@ -1,4 +1,4 @@
-# TEMPLATE Custom Element for Kentico Kontent
+# Bing Image Selector Custom Element for Kentico Kontent
 
 This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) for [Kentico Kontent](https://kontent.ai) that allows users to search Bing images and select one. **NOTE: Selected image may be subject to copyright and/or usage restrictions.**
 
